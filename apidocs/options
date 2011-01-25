@@ -16,8 +16,6 @@
 'UTF-8'
 -doctitle
 'Maven PlantUML plugin 0.9.0-SNAPSHOT API'
--link
-'http://java.sun.com/javase/6/docs/api'
 -use
 -version
 -windowtitle
