@@ -1,0 +1,24 @@
+-classpath
+'/Users/julien/Documents/Projects/maven-plantuml-plugin/target/classes:/Users/julien/.m2/repository/org/apache/maven/maven-plugin-api/2.2.1/maven-plugin-api-2.2.1.jar:/Users/julien/.m2/repository/net/sourceforge/plantuml/plantuml/1.0.6035-SNAPSHOT/plantuml-1.0.6035-SNAPSHOT.jar'
+-encoding
+'UTF-8'
+-protected
+-sourcepath
+'/Users/julien/Documents/Projects/maven-plantuml-plugin/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2011. All Rights Reserved.'
+-charset
+'UTF-8'
+-d
+'/Users/julien/Documents/Projects/maven-plantuml-plugin/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Maven PlantUML plugin 0.9.0-SNAPSHOT API'
+-link
+'http://java.sun.com/javase/6/docs/api'
+-use
+-version
+-windowtitle
+'Maven PlantUML plugin 0.9.0-SNAPSHOT API'
