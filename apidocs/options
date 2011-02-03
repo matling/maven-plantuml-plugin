@@ -1,5 +1,5 @@
 -classpath
-'/Users/julien/Documents/Projects/maven-plantuml-plugin/target/checkout/target/classes:/Users/julien/.m2/repository/org/apache/maven/maven-plugin-api/2.2.1/maven-plugin-api-2.2.1.jar:/Users/julien/.m2/repository/net/sourceforge/plantuml/plantuml/6055/plantuml-6055.jar'
+'/Users/julien/Documents/Projects/maven-plantuml-plugin/target/checkout/target/classes:/Users/julien/.m2/repository/org/apache/maven/maven-plugin-api/2.2.1/maven-plugin-api-2.2.1.jar:/Users/julien/.m2/repository/net/sourceforge/plantuml/plantuml/6085/plantuml-6085.jar'
 -encoding
 'UTF-8'
 -protected
@@ -15,10 +15,10 @@
 -docencoding
 'UTF-8'
 -doctitle
-'Maven PlantUML plugin 6055 API'
+'Maven PlantUML plugin 6085 API'
 -link
 'http://java.sun.com/javase/6/docs/api'
 -use
 -version
 -windowtitle
-'Maven PlantUML plugin 6055 API'
+'Maven PlantUML plugin 6085 API'
